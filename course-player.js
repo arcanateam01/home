@@ -15,7 +15,8 @@ const COURSES = {
             {
                 name: "Get Started – Welcome to the Course & Overview",
                 lessons: [
-                    { title: "Welcome to ALPS",                          src: "modules/interns/get-started/content/index.html" }
+                    { title: "Welcome to the Course",                         src: "modules/interns/get-started/wel/content/index.html" },
+                    { title: "Navigation Basics",                             src: "modules/interns/get-started/nav/content/index.html" }
                 ]
             },
             {
