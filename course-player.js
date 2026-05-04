@@ -13,6 +13,12 @@ const COURSES = {
         title: "Gamified Learning Design: From Frameworks to Interactive Development		",
         chapters: [
             {
+                name: "Get Started – Welcome to the Course & Overview",
+                lessons: [
+                    { title: "Welcome to ALPS",                          src: "modules/interns/get-started/content/index.html" }
+                ]
+            },
+            {
                 name: "Chapter 1 – Foundations of Gamified Learning",
                 lessons: [
                     { title: "What is Gamification",                          src: "modules/interns/chapter1/lesson1/content/index.html" },
