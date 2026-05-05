@@ -46,9 +46,9 @@ const COURSES = {
             {
                 name: "Chapter 4 – Code Blocks and Deployment",
                 lessons: [
-                    { title: "HTML, CSS, and JavaScript Basics",              src: "modules/interns/chapter4/content/lesson1/index.html" },
-                    { title: "Using Code Blocks in Rise360",                  src: "modules/interns/chapter4/content/lesson2/index.html" },
-                    { title: "Capstone: Build and Deploy a Gamified Lesson",  src: "modules/interns/chapter4/content/lesson3/index.html" }
+                    { title: "HTML, CSS, and JavaScript Basics",              src: "modules/interns/chapter4/lesson1/content/index.html" },
+                    { title: "Using Code Blocks in Rise360",                  src: "modules/interns/chapter4/lesson2/content/index.html" },
+                    { title: "Capstone: Build and Deploy a Gamified Lesson",  src: "modules/interns/chapter4/lesson3/content/index.html" }
                 ]
             }
         ]
